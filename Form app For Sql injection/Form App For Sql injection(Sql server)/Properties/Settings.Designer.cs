@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace formForSuggestion.Properties
+namespace FormApp_Sql_Inj_.Properties
 {
 
 

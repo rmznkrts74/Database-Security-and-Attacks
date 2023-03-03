@@ -1,0 +1,11 @@
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).csproj.AssemblyReference.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).csproj.SuggestedBindingRedirects.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp_Sql_Inj_.Form1.resources
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp_Sql_Inj_.Properties.Resources.resources
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).csproj.GenerateResource.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).csproj.CoreCompileInputs.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\bin\Debug\FormApp(Sql Inj).exe.config
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\bin\Debug\FormApp(Sql Inj).exe
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\bin\Debug\FormApp(Sql Inj).pdb
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).exe
+C:\Users\rmznk\OneDrive\Masaüstü\db\FormApp(Sql Inj)\FormApp(Sql Inj)\obj\Debug\FormApp(Sql Inj).pdb

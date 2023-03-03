@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BDB9E8B6-94F3-48B7-A7D8-56EC07EF67F4}</ProjectGuid>
+    <ProjectGuid>{260A2B7C-25E3-4397-9A40-52888F7BFB6B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>formForSuggestion</RootNamespace>
-    <AssemblyName>formForSuggestion</AssemblyName>
+    <RootNamespace>FormApp_Sql_Inj_</RootNamespace>
+    <AssemblyName>FormApp%28Sql Inj%29</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="formSuggest.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formSuggest.Designer.cs">
-      <DependentUpon>formSuggest.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="formSuggest.resx">
-      <DependentUpon>formSuggest.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
