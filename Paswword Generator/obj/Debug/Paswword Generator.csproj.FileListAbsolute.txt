@@ -1,0 +1,11 @@
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\bin\Debug\Paswword Generator.exe.config
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\bin\Debug\Paswword Generator.exe
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\bin\Debug\Paswword Generator.pdb
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.csproj.AssemblyReference.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword_Generator.Form1.resources
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword_Generator.Properties.Resources.resources
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.csproj.GenerateResource.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.csproj.CoreCompileInputs.cache
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.exe
+C:\Users\rmznk\OneDrive\Masaüstü\db\Paswword Generator\Paswword Generator\obj\Debug\Paswword Generator.pdb
