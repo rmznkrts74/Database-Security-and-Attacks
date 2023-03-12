@@ -32,13 +32,16 @@ namespace Paswword_Generator
         private void button1_Click(object sender, EventArgs e)
         {
             int lenght;
+            
             if (int.TryParse(lenghtPassword.Text, out lenght))
             {
+                this.BackColor = Color.Green;
                 // txtSayi.Text değeri int tipine dönüştürülebilirse, sayi değişkeni bu değeri alır
                 // bu blok içinde sayı işlemlerini yapabilirsiniz
             }
             else
             {
+                this.BackColor = Color.Red;
                 MessageBox.Show("Please enter a integer!");
             }
 
