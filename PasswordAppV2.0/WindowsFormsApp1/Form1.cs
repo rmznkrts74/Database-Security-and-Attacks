@@ -17,6 +17,7 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Khaki;
         }
 
         private void lenght_TextChanged(object sender, EventArgs e)
@@ -29,9 +30,11 @@ namespace WindowsFormsApp1
             int lenghts;
             if (int.TryParse(lenght.Text, out lenghts))
             {
+                this.BackColor = Color.Green;
             }
             else
             {
+                this.BackColor = Color.Red;
                 MessageBox.Show("Please enter a integer!");
             }
 
