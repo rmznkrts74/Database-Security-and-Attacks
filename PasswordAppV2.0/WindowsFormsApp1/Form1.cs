@@ -7,9 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 
-namespace Paswword_Generator
+namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
@@ -18,33 +19,27 @@ namespace Paswword_Generator
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
+        private void lenght_TextChanged(object sender, EventArgs e)
         {
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int lenght;
-            if (int.TryParse(lenghtPassword.Text, out lenght))
+            int lenghts;
+            if (int.TryParse(lenght.Text, out lenghts))
             {
-                // txtSayi.Text değeri int tipine dönüştürülebilirse, sayi değişkeni bu değeri alır
-                // bu blok içinde sayı işlemlerini yapabilirsiniz
             }
             else
             {
                 MessageBox.Show("Please enter a integer!");
             }
 
+
             string characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+";
             Random random = new Random();
             string password = "";
-            for (int i = 0; i < lenght; i++)
+            for (int i = 0; i < lenghts; i++)
             {
                 int index = random.Next(characters.Length);
                 password += characters[index];
@@ -53,6 +48,16 @@ namespace Paswword_Generator
 
             }
             newPassword.Text = password;
-        }
+            
+            string newName = appName.Text;
+
+            string wayOfFile = @"C:\\Users\\rmznk\\OneDrive\\Masaüstü\\Mytools\\PasswordAppV2.0\\dark.txt";
+            wayOfFile = wayOfFile.ToString();
+            using (StreamWriter filedump = new StreamWriter(wayOfFile, true))
+            {
+                filedump.WriteLine("Appname: "+newName+ " Password : " + password);
+            }       
+}
+        
     }
 }
