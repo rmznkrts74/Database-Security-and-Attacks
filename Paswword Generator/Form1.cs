@@ -16,6 +16,7 @@ namespace Paswword_Generator
         public Form1()
         {
             InitializeComponent();
+            this.BackColor = Color.Khaki;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -53,6 +54,10 @@ namespace Paswword_Generator
 
             }
             newPassword.Text = password;
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Red; // Formun arka plan rengini kırmızıya ayarlar
         }
     }
 }
