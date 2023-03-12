@@ -58,9 +58,5 @@ namespace Paswword_Generator
             }
             newPassword.Text = password;
         }
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            this.BackColor = Color.Red; // Formun arka plan rengini kırmızıya ayarlar
-        }
     }
 }
